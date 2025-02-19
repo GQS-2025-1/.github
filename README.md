@@ -50,11 +50,8 @@ A organização será dividida em repositórios temáticos para facilitar o aces
 ### 🔹 **1. Repositório: `Exemplos`**
 📌 Apresenta exemplos práticos e códigos ilustrando os conceitos da abordados.
 
-### 🔹 **2. Repositório: `Exercícios`**
-📌 Contém listas de exercícios organizadas por tema, com desafios para reforçar os conceitos estudados.
-
-### 🔹 **3. Repositório: `Resoluções`**
-📌 Armazena as resoluções dos exercícios, organizadas por tema.
+### 🔹 **2. Repositório: `Exercicios`**
+📌 Contém listas de exercícios organizadas por tema, com desafios para reforçar os conceitos estudados e as resoluções.
 
 ### 🔹 **4. Repositório: `Projetos`**
 📌 Projetos práticos integrando os conceitos de **qualidade de software, DevOps e testes**.
